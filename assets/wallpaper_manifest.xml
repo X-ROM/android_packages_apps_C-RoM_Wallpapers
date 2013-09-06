@@ -1,23 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
 
-    <category name="CarbonRom" >
+    <category name="C-RoM" >
 
         <wallpaper
-            author="ToxicThunder"
-            url="http://mattman.org/sub/wallpapers/toxicthunder_carbon.jpg" />
+            author="aways"
+            url="https://www.dropbox.com/s/cyks1w5xk7gk9og/wallpapers_2.jpg" />
 
     </category>
 
-    <category name="CarbonRom Users" >
+    <category name="C-RoM Wallpapers" >
 
         <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon.jpg" />
+            author="aways"
+            url="https://www.dropbox.com/s/x1nd1ey0rjqz8fg/wallpapers_16.jpg" />
 
         <wallpaper
-            author="oasad92"
-            url="http://mattman.org/sub/wallpapers/oasad_carbon_red.jpg" />
+            author="aways"
+            url="https://www.dropbox.com/s/9y1q0j6t2bmgez7/wallpapers_1.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/siykthp3hbx2dgv/wallpapers_4.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/2ow6auee358b609/wallpapers_5.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/6gg9r1vkvzhr2cu/wallpapers_6.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/yaekugjuj9u5jmb/wallpapers_7.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/s3tspuv86dminn5/wallpapers_8.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/3llu4sbytmch7zm/wallpapers_9.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/2cnhxm0qspbwhu8/wallpapers_10.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/mfc7luczfc4hvrh/wallpapers_11.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/ac7ppzk516fgqmt/wallpapers_12.jpg" />
+
+        <wallpaper
+            author="aways"
+            url="https://www.dropbox.com/s/rh3b2ju74ikzrv4/wallpapers_13.jpg" />
 
     </category>
 

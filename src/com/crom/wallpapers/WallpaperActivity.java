@@ -1,5 +1,5 @@
 
-package com.carbon.wallpapers;
+package com.crom.wallpapers;
 
 import android.app.ActionBar;
 import android.app.Activity;
